@@ -6,108 +6,108 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="4m61IgIua--mJlCAS2UI-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="100" as="sourcePoint" />
-            <mxPoint x="120" y="160" as="targetPoint" />
+            <mxPoint x="240" y="100" as="sourcePoint" />
+            <mxPoint x="130" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-2" value="地面数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="100" width="70" height="30" as="geometry" />
+          <mxGeometry x="130" y="100" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-3" value="&lt;b&gt;视频时长处理&lt;/b&gt;&lt;div&gt;ffmpeg, 压缩/校正帧率&lt;/div&gt;&lt;div&gt;耗时: ~10min/h&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="170" width="190" height="60" as="geometry" />
+          <mxGeometry x="30" y="170" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-4" value="&lt;b&gt;视频时序分割&lt;/b&gt;&lt;div&gt;ffmpeg, 按小时分割&lt;/div&gt;&lt;div&gt;耗时: ~1s/h&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="159" y="300" width="190" height="60" as="geometry" />
+          <mxGeometry x="169" y="300" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="100" as="sourcePoint" />
-            <mxPoint x="280" y="290" as="targetPoint" />
+            <mxPoint x="290" y="100" as="sourcePoint" />
+            <mxPoint x="290" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="240" as="sourcePoint" />
-            <mxPoint x="190" y="290" as="targetPoint" />
+            <mxPoint x="130" y="240" as="sourcePoint" />
+            <mxPoint x="200" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-8" value="天空数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="190" width="70" height="30" as="geometry" />
+          <mxGeometry x="300" y="190" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-9" value="&lt;b&gt;视频时序合并&lt;/b&gt;&lt;div&gt;Python脚本，合并整点数据&lt;/div&gt;&lt;div&gt;耗时: ~1s/h&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="159" y="410" width="190" height="60" as="geometry" />
+          <mxGeometry x="169" y="410" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="253.5" y="365" as="sourcePoint" />
-            <mxPoint x="253.5" y="405" as="targetPoint" />
+            <mxPoint x="263.5" y="365" as="sourcePoint" />
+            <mxPoint x="263.5" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-11" value="&lt;b&gt;视频时序合并&lt;/b&gt;&lt;div&gt;Python脚本，合并整点数据&lt;/div&gt;&lt;div&gt;耗时: ~1s/h&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="159" y="520" width="190" height="60" as="geometry" />
+          <mxGeometry x="169" y="520" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="253.5" y="476" as="sourcePoint" />
-            <mxPoint x="253.5" y="516" as="targetPoint" />
+            <mxPoint x="263.5" y="476" as="sourcePoint" />
+            <mxPoint x="263.5" y="516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-15" value="处理原始视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="159" y="30" width="190" height="60" as="geometry" />
+          <mxGeometry x="169" y="30" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-16" value="&lt;b&gt;视频有效追踪部分提取&lt;/b&gt;&lt;div&gt;ffmpeg, 画面裁剪, 需人工设置参数&lt;/div&gt;&lt;div&gt;耗时: ~10min/h&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="159" y="632" width="190" height="60" as="geometry" />
+          <mxGeometry x="169" y="632" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="253.5" y="588" as="sourcePoint" />
-            <mxPoint x="253.5" y="628" as="targetPoint" />
+            <mxPoint x="263.5" y="588" as="sourcePoint" />
+            <mxPoint x="263.5" y="628" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-19" value="&lt;b&gt;改进YOLOv11检测&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="200" width="190" height="60" as="geometry" />
+          <mxGeometry x="520" y="200" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-20" value="&lt;b&gt;ByteTrack追踪算法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="315" width="190" height="60" as="geometry" />
+          <mxGeometry x="520" y="315" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="604.5" y="270" as="sourcePoint" />
-            <mxPoint x="604.5" y="310" as="targetPoint" />
+            <mxPoint x="614.5" y="270" as="sourcePoint" />
+            <mxPoint x="614.5" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-22" value="检测后含有&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;检测框信息的视频帧&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="265" width="130" height="40" as="geometry" />
+          <mxGeometry x="620" y="265" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-23" value="&lt;b&gt;限制ID数目+去除固定虫卵&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="425" width="190" height="60" as="geometry" />
+          <mxGeometry x="520" y="425" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="604.5" y="380" as="sourcePoint" />
-            <mxPoint x="604.5" y="420" as="targetPoint" />
+            <mxPoint x="614.5" y="380" as="sourcePoint" />
+            <mxPoint x="614.5" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-26" value="&lt;b&gt;可视化追踪视频&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="570" width="190" height="60" as="geometry" />
+          <mxGeometry x="630" y="570" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-27" value="&lt;b&gt;轨迹坐标数据&lt;/b&gt; (.csv)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="570" width="190" height="60" as="geometry" />
+          <mxGeometry x="420" y="570" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="498" as="sourcePoint" />
-            <mxPoint x="510" y="558" as="targetPoint" />
+            <mxPoint x="590" y="498" as="sourcePoint" />
+            <mxPoint x="520" y="558" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="638" y="498" as="sourcePoint" />
-            <mxPoint x="708" y="558" as="targetPoint" />
+            <mxPoint x="648" y="498" as="sourcePoint" />
+            <mxPoint x="718" y="558" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-31" value="可选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="508" width="50" height="30" as="geometry" />
+          <mxGeometry x="680" y="508" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
