@@ -61,7 +61,7 @@
             <mxPoint x="252.5" y="516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4m61IgIua--mJlCAS2UI-15" value="处理原始视频" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4m61IgIua--mJlCAS2UI-15" value="&lt;b&gt;处理原始视频&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="158" y="20" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-16" value="&lt;b&gt;视频有效追踪部分提取&lt;/b&gt;&lt;div&gt;ffmpeg, 画面裁剪, 需人工设置参数&lt;/div&gt;&lt;div&gt;耗时: ~10min/h&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -127,8 +127,8 @@
         <mxCell id="4m61IgIua--mJlCAS2UI-37" value="视频文件预处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="669" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4m61IgIua--mJlCAS2UI-38" value="果蝇目标追踪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="123" width="100" height="30" as="geometry" />
+        <mxCell id="4m61IgIua--mJlCAS2UI-38" value="果蝇目标追踪&lt;div&gt;耗时：75FPS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="118" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-40" value="结果输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="670" width="70" height="30" as="geometry" />
