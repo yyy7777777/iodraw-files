@@ -76,8 +76,8 @@
             <mxPoint x="614.5" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4m61IgIua--mJlCAS2UI-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="615" y="128" width="50" height="30" as="geometry" />
+        <mxCell id="4m61IgIua--mJlCAS2UI-22" value="检测后每帧的检测框" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="130" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
