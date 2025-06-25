@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-8" value="天空数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="475" y="140" width="70" height="30" as="geometry" />
+          <mxGeometry x="419" y="220" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
