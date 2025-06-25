@@ -65,27 +65,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-19" value="&lt;b&gt;改进YOLOv11检测&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="180" width="190" height="60" as="geometry" />
+          <mxGeometry x="510" y="200" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-20" value="&lt;b&gt;ByteTrack追踪算法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="295" width="190" height="60" as="geometry" />
+          <mxGeometry x="510" y="315" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="604.5" y="250" as="sourcePoint" />
-            <mxPoint x="604.5" y="290" as="targetPoint" />
+            <mxPoint x="604.5" y="270" as="sourcePoint" />
+            <mxPoint x="604.5" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-22" value="检测后含有&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;检测框信息的视频帧&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="245" width="130" height="40" as="geometry" />
+          <mxGeometry x="610" y="265" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-23" value="&lt;b&gt;限制ID数目+去除固定虫卵&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="405" width="190" height="60" as="geometry" />
+          <mxGeometry x="510" y="425" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="604.5" y="360" as="sourcePoint" />
-            <mxPoint x="604.5" y="400" as="targetPoint" />
+            <mxPoint x="604.5" y="380" as="sourcePoint" />
+            <mxPoint x="604.5" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
