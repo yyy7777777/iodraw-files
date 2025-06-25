@@ -109,6 +109,12 @@
         <mxCell id="4m61IgIua--mJlCAS2UI-31" value="可选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="669" y="508" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4m61IgIua--mJlCAS2UI-32" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4m61IgIua--mJlCAS2UI-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
