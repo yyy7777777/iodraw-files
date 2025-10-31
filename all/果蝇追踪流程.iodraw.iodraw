@@ -73,7 +73,7 @@
             <mxPoint x="252.5" y="628" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4m61IgIua--mJlCAS2UI-19" value="&lt;b&gt;改进YOLOv11检测&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="4m61IgIua--mJlCAS2UI-19" value="&lt;b&gt;YOLOv11检测&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="509" y="200" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4m61IgIua--mJlCAS2UI-20" value="&lt;b&gt;改进MOT追踪算法&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
